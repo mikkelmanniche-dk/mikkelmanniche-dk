@@ -3,7 +3,7 @@
   # Hej, jeg er Mikkel Manniche 👋
   
   ### Full-Stack Udvikler & Digital Løsningsarkitekt
-  **Next.js • React • TypeScript • PostgreSQL • Enterprise Web Architecture**  
+  **Web • E-commerce • Højtydende Digitale Løsninger**  
   *Bor i München 🇩🇪 &nbsp;&nbsp;|&nbsp;&nbsp; Oprindeligt fra Aalborg 🇩🇰*
 
   <br />
@@ -16,65 +16,35 @@
 
 ---
 
-### 🚀 Om mig & Hvad jeg bygger
+### 🚀 Om mig
 
-Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digitale produkter. Jeg designer og koder hele rejsen — fra arkitektur og database til intuitive frontend-brugerflader og API-integrationer.
-
-* 🌐 **Hjemmeside & Platform:** [mikkelmanniche.dk](https://mikkelmanniche.dk) — Min digitale platform, bygget med fokus på maksimal hastighed, tilgængelighed og flersproget SEO (Dansk, Engelsk, Tysk).
-* 🛍️ **E-commerce, Funnels & Web:** Udvikling af skalerbare webshops (**Shopify**, **WooCommerce**), skræddersyede landingpages og marketing-funnels.
-* 💼 **Forretningsapplikationer & CRM:** Udvikling af skræddersyede lead- og administrationssystemer i **Next.js**, **React** og **PostgreSQL**.
-* 📊 **Fintech & Dashboards:** Avancerede statistik- og kontrolpaneler integreret med **GA4 Data API**, betalingsgateways (**Stripe**) og transaktions-e-mails (**Resend**).
-* 🛡️ **Sikkerhed & Ydeevne:** Sikkerhedshærdede miljøer med streng Content Security Policy (CSP), CORS-kontrol og database-level sikkerhed (RLS).
+Jeg hjælper virksomheder med at bygge lynhurtige, sikre og højkonverterende webløsninger. Med en baggrund i både softwareudvikling og forretningsforståelse designer og koder jeg alt fra skræddersyede webapplikationer og webshops til automatiserede forretningssystemer.
 
 ---
 
-### 🛠️ Teknologistack & Kompetencer
+### 🌟 Udvalgte Projekter
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Frontend, UI & E-commerce</h4>
-      <ul>
-        <li><b>Core & Sprog:</b> TypeScript, JavaScript (ES6+), HTML5, CSS3</li>
-        <li><b>Frameworks:</b> Next.js (App Router), React 19 / 18, Node.js, npm</li>
-        <li><b>Styling & UX:</b> Tailwind CSS (v3 & v4), Mobile-first & Responsive Design</li>
-        <li><b>E-commerce & CMS:</b> Shopify, WooCommerce, WordPress & Elementor</li>
-        <li><b>UI & Data:</b> Radix UI, Lucide Icons, Recharts datavisualisering</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend, Database & Integrationer</h4>
-      <ul>
-        <li><b>Backend & Server:</b> PHP 8, Node.js, Next.js Server Actions</li>
-        <li><b>Database:</b> PostgreSQL, Database Migrations & RLS</li>
-        <li><b>API'er & Kode:</b> RESTful APIs, Webhooks, Custom Code & Fejlfinding</li>
-        <li><b>Betaling & Kommunikation:</b> Stripe API, Resend, IMAP Webmail</li>
-        <li><b>Formularer & Sikkerhed:</b> Sikre formularer, CSRF, Session-håndtering</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📈 Vækst, Tracking & Automatisering</h4>
-      <ul>
-        <li><b>SEO & Ydeevne:</b> Teknisk SEO, Performanceoptimering, Schema.org JSON-LD</li>
-        <li><b>Konvertering:</b> Højkonverterende Landingpages, Funnels & Lead flows</li>
-        <li><b>Analytics:</b> Google Analytics 4 (GA4 Data API), Event-tracking</li>
-        <li><b>Marketing & CRM:</b> HubSpot, Mailchimp, Marketing Automation</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>☁️ Infrastruktur, Værktøjer & AI-Workflow</h4>
-      <ul>
-        <li><b>Hosting & DNS:</b> Cloudflare, Simply.com, Vercel, one.com, e-studio.dk</li>
-        <li><b>Sikkerhed & Webserver:</b> Apache HTTP (mod_headers, CSP-hærdning)</li>
-        <li><b>Byg & Versionsstyring:</b> Git, GitHub, Vite, Webpack, ESLint</li>
-        <li><b>Moderne Workflow:</b> AI-assisted Coding, AI Debugging, CodeRabbit Review</li>
-        <li><b>Platforme:</b> macOS, Linux, Windows</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 🌐 [mikkelmanniche.dk](https://mikkelmanniche.dk) — Personlig Platform & Webløsning
+> *Højtydende, flersproget platform bygget fra bunden med fokus på rå hastighed, tilgængelighed og teknisk SEO.*  
+> **Teknologier:** `TypeScript` • `JavaScript (ES6+)` • `PHP 8` • `Apache CSP-hærdning` • `Schema.org SEO` • `Simply.com Cloud`
+
+#### 📊 Admin & Intelligence Dashboard
+> *Skræddersyet administrations- og analysepanel med live integration til Google Analytics 4 og betalingsgateways.*  
+> **Teknologier:** `React 18` • `Vite` • `Tailwind CSS` • `GA4 Data API` • `Recharts` • `Stripe API` • `IMAP Webmail`
+
+#### ⚡ B2B Lead Platform & CRM Engine
+> *Skalerbar forretningsapplikation til automatiseret lead-håndtering, geospatiale kort og transaktionel e-mail.*  
+> **Teknologier:** `Next.js 16` • `React 19` • `TypeScript` • `PostgreSQL / Supabase` • `Resend API` • `Leaflet Maps`
+
+---
+
+### 🛠️ Teknisk Profil
+
+* **Frontend & E-commerce:** Next.js (App Router), React 19/18, TypeScript, Tailwind CSS, Shopify, WooCommerce, WordPress, Mobile-first UX.
+* **Backend & Database:** Node.js, PHP 8 REST APIs, PostgreSQL, Database Migrations, RLS, Stripe, Sikre Formularer & CSRF.
+* **Vækst & Tracking:** Teknisk SEO, Performanceoptimering, Google Analytics 4 (Data API), Funnels, Landingpages, HubSpot, Mailchimp.
+* **Infrastruktur & Værktøjer:** Cloudflare, Git/GitHub, Simply.com, Vercel, macOS, Linux, Windows.
+* **Moderne AI-Workflow:** AI-assisted development, AI code review & debugging (CodeRabbit, Claude, OpenAI, Gemini).
 
 ---
 
