@@ -80,6 +80,8 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 
 </div>
 
+---
+
 </div>
 
 ### 🏗️ Open Source @ manniche labs
