@@ -4,7 +4,7 @@
   
   ### Full-Stack Udvikler & Digital Løsningsarkitekt
   **Next.js • React • TypeScript • Supabase • PHP & REST APIs**  
-  *Base i München, Tyskland 🇩🇪 • Oprindeligt fra København, Danmark 🇩🇰*
+  *Bor i München 🇩🇪 • Oprindeligt fra Aalborg 🇩🇰*
 
   <br />
 
@@ -69,11 +69,12 @@ Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digi
 
 ---
 
-### 📊 GitHub Aktivitet & Kodefordeling
+### 📊 GitHub Aktivitet
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikkelmanniche-dk&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=3b82f6&icon_color=2563eb" alt="Mikkel Manniche GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelmanniche-dk&layout=compact&theme=dark&count_private=true&hide_border=true&bg_color=0f0f0f&title_color=3b82f6" alt="Mest brugte sprog" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=mikkelmanniche-dk&theme=dark&background=0f0f0f&border=1e293b&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakNum=3b82f6&sideNums=3b82f6&currStreakLabel=2563eb&sideLabels=2563eb&dates=94a3b8" alt="Mikkel Manniche GitHub Streak" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=mikkelmanniche-dk&color=2563eb&style=flat-square&label=PROFILBESØGENDE" alt="Profilbesøgende" />
 </div>
 
 ---
