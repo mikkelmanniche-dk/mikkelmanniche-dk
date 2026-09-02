@@ -9,7 +9,7 @@
   <br />
 
   [![Website](https://img.shields.io/badge/Website-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikkel_Manniche-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkel-manniche/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikkel_Manniche-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelmanniche/)
   [![Email](https://img.shields.io/badge/Kontakt-kontakt@mikkelmanniche.dk-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@mikkelmanniche.dk)
 
 </div>
@@ -82,6 +82,6 @@ Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digi
 <div align="center">
   
   **Interesseret i et samarbejde eller at se mine seneste projekter?**  
-  Besøg min hjemmeside på **[mikkelmanniche.dk](https://mikkelmanniche.dk)** eller ræk ud via [LinkedIn](https://www.linkedin.com/in/mikkel-manniche/).
+  Besøg min hjemmeside på **[mikkelmanniche.dk](https://mikkelmanniche.dk)** eller ræk ud via [LinkedIn](https://www.linkedin.com/in/mikkelmanniche/).
 
 </div>
