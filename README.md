@@ -4,7 +4,7 @@
   
   ### Full-Stack Udvikler & Digital Løsningsarkitekt
   **Next.js • React • TypeScript • PostgreSQL • Enterprise Web Architecture**  
-  *Bor i München 🇩🇪 | Oprindeligt fra Aalborg 🇩🇰*
+  *Bor i München 🇩🇪 &nbsp;&nbsp;|&nbsp;&nbsp; Oprindeligt fra Aalborg 🇩🇰*
 
   <br />
 
