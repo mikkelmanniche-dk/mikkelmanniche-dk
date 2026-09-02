@@ -46,6 +46,8 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 
 <div align="center">
 
+<div>
+    
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -55,7 +57,7 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<br>
+</div><div>
 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
@@ -65,7 +67,7 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0f0f0f?style=flat-square&logo=vercel&logoColor=white)
 
-<br>
+</div><div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=flat-square&logo=mailchimp&logoColor=000000)
@@ -78,21 +80,17 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 
 </div>
 
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mikkelmanniche-dk&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Mikkel's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelmanniche-dk&layout=compact&theme=github_dark&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mikkelmanniche-dk&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Mikkel's GitHub Stats" />
 
-</div>
-
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mikkelmanniche-dk&theme=react-dark&hide_border=true&area=true&color=2563eb&line=2563eb&point=ffffff" alt="Contribution Activity Graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikkelmanniche-dk&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
