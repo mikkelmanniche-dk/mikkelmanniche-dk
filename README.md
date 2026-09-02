@@ -80,8 +80,18 @@ Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digi
 ---
 
 <div align="center">
+
+  ### 🟢 Åben for nye projekter & samarbejder
   
-  **Interesseret i et samarbejde eller at se mine seneste projekter?**  
-  Besøg min hjemmeside på **[mikkelmanniche.dk](https://mikkelmanniche.dk)** eller ræk ud via [LinkedIn](https://www.linkedin.com/in/mikkelmanniche/).
+  *Har du en idé, et digitaliseringsprojekt eller brug for en skarp full-stack løsning?*  
+  Lad os tage en uforpligtende snak om, hvordan vi kan skabe reel værdi sammen.
+
+  <br />
+
+  [![Udforsk Platform](https://img.shields.io/badge/Udforsk_Platformen-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
+  &nbsp;&nbsp;
+  [![Forbind på LinkedIn](https://img.shields.io/badge/Forbind_på_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelmanniche/)
+  &nbsp;&nbsp;
+  [![Send en mail](https://img.shields.io/badge/Send_en_mail-kontakt@mikkelmanniche.dk-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@mikkelmanniche.dk)
 
 </div>
