@@ -48,16 +48,6 @@ Jeg hjælper virksomheder med at bygge lynhurtige, sikre og højkonverterende we
 
 ---
 
-### 📊 GitHub Aktivitet
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mikkelmanniche-dk&theme=dark&background=0f0f0f&border=1e293b&stroke=2563eb&ring=2563eb&fire=2563eb&currStreakNum=3b82f6&sideNums=3b82f6&currStreakLabel=2563eb&sideLabels=2563eb&dates=94a3b8" alt="Mikkel Manniche GitHub Streak" />
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=mikkelmanniche-dk&color=2563eb&style=flat-square&label=PROFILBESØGENDE" alt="Profilbesøgende" />
-</div>
-
----
-
 <div align="center">
 
   ### 🟢 Åben for nye projekter & samarbejder
