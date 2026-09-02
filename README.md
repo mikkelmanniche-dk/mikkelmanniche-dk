@@ -1,18 +1,19 @@
 <div align="center">
 
-  # Hey, I'm Mikkel Manniche 👋
+# Hey, I'm Mikkel Manniche 👋
 
-  ### Full-Stack Developer · Digital Solution Architect · AI Integrations
-  **Web · E-commerce · High-Performance Digital Products**
-  
-  *Based in Munich 🇩🇪 &nbsp;|&nbsp; From Aalborg, Denmark 🇩🇰*
+### Full-Stack Developer · Digital Solution Architect · AI Integrations
 
-  <br />
+**Web · E-commerce · High-Performance Digital Products**
 
-  [![Website](https://img.shields.io/badge/Website-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikkel_Manniche-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkelmanniche/)
-  [![Email](https://img.shields.io/badge/Email-kontakt@mikkelmanniche.dk-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@mikkelmanniche.dk)
-  [![Studio](https://img.shields.io/badge/Studio-manniche_labs-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manniche-labs)
+*Based in Munich 🇩🇪 &nbsp;|&nbsp; From Aalborg, Denmark 🇩🇰*
+
+<br />
+
+[![Website](https://img.shields.io/badge/Website-mikkelmanniche.dk-1f2937?style=flat-square&logo=google-chrome&logoColor=60a5fa)](https://mikkelmanniche.dk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikkel%20Manniche-1f2937?style=flat-square&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/mikkelmanniche/)
+[![Email](https://img.shields.io/badge/Email-kontakt%40mikkelmanniche.dk-1f2937?style=flat-square&logo=gmail&logoColor=60a5fa)](mailto:kontakt@mikkelmanniche.dk)
+[![Manniche Labs](https://img.shields.io/badge/Manniche%20Labs-GitHub-1f2937?style=flat-square&logo=github&logoColor=60a5fa)](https://github.com/manniche-labs)
 
 </div>
 
