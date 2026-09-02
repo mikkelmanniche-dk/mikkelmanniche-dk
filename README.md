@@ -8,7 +8,7 @@
 
   <br />
 
-  [![Website](https://img.shields.io/badge/Besøg_Portfolio-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
+  [![Website](https://img.shields.io/badge/Website-mikkelmanniche.dk-0f0f0f?style=for-the-badge&logo=google-chrome&logoColor=2563eb)](https://mikkelmanniche.dk)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mikkel_Manniche-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mikkel-manniche/)
   [![Email](https://img.shields.io/badge/Kontakt-kontakt@mikkelmanniche.dk-10b981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kontakt@mikkelmanniche.dk)
 
@@ -20,7 +20,7 @@
 
 Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digitale produkter. Jeg designer og koder hele rejsen — fra arkitektur og database til intuitive frontend-brugerflader og API-integrationer.
 
-* 🌐 **Hovedside & Portfolio:** [mikkelmanniche.dk](https://mikkelmanniche.dk) — Mit digitale visitkort, bygget med fokus på maksimal hastighed, tilgængelighed og flersproget SEO (Dansk, Engelsk, Tysk).
+* 🌐 **Hjemmeside & Platform:** [mikkelmanniche.dk](https://mikkelmanniche.dk) — Min digitale platform, bygget med fokus på maksimal hastighed, tilgængelighed og flersproget SEO (Dansk, Engelsk, Tysk).
 * 💼 **Forretningsapplikationer & CRM:** Udvikling af skræddersyede lead- og administrationssystemer i **Next.js**, **React** og **Supabase**.
 * 📊 **Fintech & Dashboards:** Avancerede statistik- og kontrolpaneler integreret med **GA4 Data API**, betalingsgateways (**Stripe**) og transaktions-e-mails (**Resend**).
 * 🛡️ **Sikkerhed & Ydeevne:** Sikkerhedshærdede miljøer med streng Content Security Policy (CSP), CORS-kontrol og database-level sikkerhed (RLS).
