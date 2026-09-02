@@ -3,8 +3,8 @@
   # Hej, jeg er Mikkel Manniche 👋
   
   ### Full-Stack Udvikler & Digital Løsningsarkitekt
-  **Next.js • React • TypeScript • Supabase • PHP & REST APIs**  
-  *Bor i München 🇩🇪 • Oprindeligt fra Aalborg 🇩🇰*
+  **Next.js | React | TypeScript | PostgreSQL | Enterprise Web Architecture**  
+  *Bor i München 🇩🇪 | Oprindeligt fra Aalborg 🇩🇰*
 
   <br />
 
@@ -21,7 +21,7 @@
 Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digitale produkter. Jeg designer og koder hele rejsen — fra arkitektur og database til intuitive frontend-brugerflader og API-integrationer.
 
 * 🌐 **Hjemmeside & Platform:** [mikkelmanniche.dk](https://mikkelmanniche.dk) — Min digitale platform, bygget med fokus på maksimal hastighed, tilgængelighed og flersproget SEO (Dansk, Engelsk, Tysk).
-* 💼 **Forretningsapplikationer & CRM:** Udvikling af skræddersyede lead- og administrationssystemer i **Next.js**, **React** og **Supabase**.
+* 💼 **Forretningsapplikationer & CRM:** Udvikling af skræddersyede lead- og administrationssystemer i **Next.js**, **React** og **PostgreSQL**.
 * 📊 **Fintech & Dashboards:** Avancerede statistik- og kontrolpaneler integreret med **GA4 Data API**, betalingsgateways (**Stripe**) og transaktions-e-mails (**Resend**).
 * 🛡️ **Sikkerhed & Ydeevne:** Sikkerhedshærdede miljøer med streng Content Security Policy (CSP), CORS-kontrol og database-level sikkerhed (RLS).
 
@@ -47,7 +47,7 @@ Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digi
       <ul>
         <li><b>Server:</b> Node.js, Next.js Server Components</li>
         <li><b>PHP:</b> PHP 8 REST APIs & Sessions</li>
-        <li><b>Database:</b> Supabase (PostgreSQL), Migrations</li>
+        <li><b>Database:</b> PostgreSQL, Database Migrations & RLS</li>
         <li><b>Betaling & Mail:</b> Stripe API, Resend, IMAP</li>
         <li><b>Analytics API:</b> Google Analytics 4 Data API</li>
         <li><b>Arkitektur:</b> RESTful endpoints, Server Actions</li>
