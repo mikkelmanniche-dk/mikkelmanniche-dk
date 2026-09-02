@@ -42,7 +42,6 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 > **Stack:** `Next.js 16` · `React 19` · `TypeScript` · `PostgreSQL / Supabase` · `Resend API` · `Leaflet Maps`
 
 ---
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -52,14 +51,17 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-0f0f0f?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
+![PHP_8](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+<br />
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-0f0f0f?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini Vision](https://img.shields.io/badge/Gemini_Vision-4285F4?style=flat-square&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-10a37f?style=flat-square&logo=openai&logoColor=white)
 
 </div>
