@@ -89,10 +89,10 @@ Currently running [manniche labs](https://github.com/mannichen-labs) — a small
 
 | Project | Description | Stars |
 | :--- | :--- | :---: |
-| [🧾 receipt-scanner-core](https://github.com/manniche-labs/receipt-scanner-core) | European receipt parsing — Gemini/GPT-4o/Claude, DE/DK VAT | [![Stars](https://img.shields.io/github/stars/mannichen-labs/receipt-scanner-core?style=flat-square&color=f5a623)](https://github.com/manniche-labs/receipt-scanner-core) |
-| [⚡ next-enterprise-starter](https://github.com/manniche-labs/next-enterprise-starter) | Next.js 16 + React 19 + Tailwind 4 production starter | [![Stars](https://img.shields.io/github/stars/mannichen-labs/next-enterprise-starter?style=flat-square&color=f5a623)](https://github.com/manniche-labs/next-enterprise-starter) |
-| [🛡️ apache-spa-security-hardening](https://github.com/manniche-labs/apache-spa-security-hardening) | OWASP A+ `.htaccess` for SPAs on Apache | [![Stars](https://img.shields.io/github/stars/mannichen-labs/apache-spa-security-hardening?style=flat-square&color=f5a623)](https://github.com/manniche-labs/apache-spa-security-hardening) |
-| [🇪🇺 awesome-european-dev](https://github.com/manniche-labs/awesome-european-dev) | Curated resources for European developers | [![Stars](https://img.shields.io/github/stars/mannichen-labs/awesome-european-dev?style=flat-square&color=f5a623)](https://github.com/manniche-labs/awesome-european-dev) |
+| [🧾 receipt-scanner-core](https://github.com/manniche-labs/receipt-scanner-core) | European receipt parsing — Gemini/GPT-4o/Claude, DE/DK VAT | [![Stars](https://img.shields.io/github/stars/manniche-labs/receipt-scanner-core?style=flat-square&color=f5a623)](https://github.com/manniche-labs/receipt-scanner-core) |
+| [⚡ next-enterprise-starter](https://github.com/manniche-labs/next-enterprise-starter) | Next.js 16 + React 19 + Tailwind 4 production starter | [![Stars](https://img.shields.io/github/stars/manniche-labs/next-enterprise-starter?style=flat-square&color=f5a623)](https://github.com/manniche-labs/next-enterprise-starter) |
+| [🛡️ apache-spa-security-hardening](https://github.com/manniche-labs/apache-spa-security-hardening) | OWASP A+ `.htaccess` for SPAs on Apache | [![Stars](https://img.shields.io/github/stars/manniche-labs/apache-spa-security-hardening?style=flat-square&color=f5a623)](https://github.com/manniche-labs/apache-spa-security-hardening) |
+| [🇪🇺 awesome-european-dev](https://github.com/manniche-labs/awesome-european-dev) | Curated resources for European developers | [![Stars](https://img.shields.io/github/stars/manniche-labs/awesome-european-dev?style=flat-square&color=f5a623)](https://github.com/manniche-labs/awesome-european-dev) |
 
 </div>
 
