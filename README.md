@@ -3,7 +3,7 @@
   # Hej, jeg er Mikkel Manniche 👋
   
   ### Full-Stack Udvikler & Digital Løsningsarkitekt
-  **Next.js | React | TypeScript | PostgreSQL | Enterprise Web Architecture**  
+  **Next.js • React • TypeScript • PostgreSQL • Enterprise Web Architecture**  
   *Bor i München 🇩🇪 | Oprindeligt fra Aalborg 🇩🇰*
 
   <br />
