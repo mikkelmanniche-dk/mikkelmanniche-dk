@@ -21,46 +21,55 @@
 Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digitale produkter. Jeg designer og koder hele rejsen — fra arkitektur og database til intuitive frontend-brugerflader og API-integrationer.
 
 * 🌐 **Hjemmeside & Platform:** [mikkelmanniche.dk](https://mikkelmanniche.dk) — Min digitale platform, bygget med fokus på maksimal hastighed, tilgængelighed og flersproget SEO (Dansk, Engelsk, Tysk).
+* 🛍️ **E-commerce, Funnels & Web:** Udvikling af skalerbare webshops (**Shopify**, **WooCommerce**), skræddersyede landingpages og marketing-funnels.
 * 💼 **Forretningsapplikationer & CRM:** Udvikling af skræddersyede lead- og administrationssystemer i **Next.js**, **React** og **PostgreSQL**.
 * 📊 **Fintech & Dashboards:** Avancerede statistik- og kontrolpaneler integreret med **GA4 Data API**, betalingsgateways (**Stripe**) og transaktions-e-mails (**Resend**).
 * 🛡️ **Sikkerhed & Ydeevne:** Sikkerhedshærdede miljøer med streng Content Security Policy (CSP), CORS-kontrol og database-level sikkerhed (RLS).
 
 ---
 
-### 🛠️ Teknologistack
+### 🛠️ Teknologistack & Kompetencer
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h4>💻 Frontend & UI</h4>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend, UI & E-commerce</h4>
       <ul>
-        <li><b>Frameworks:</b> Next.js (App Router), React 19 / 18</li>
-        <li><b>Sprog:</b> TypeScript, JavaScript (ES6+)</li>
-        <li><b>Styling:</b> Tailwind CSS (v3 & v4), PostCSS</li>
-        <li><b>UI Primitives:</b> Radix UI, Lucide Icons</li>
-        <li><b>Datavisualisering:</b> Recharts, Leaflet Maps</li>
-        <li><b>State & Data:</b> Zustand, TanStack Query</li>
+        <li><b>Core & Sprog:</b> TypeScript, JavaScript (ES6+), HTML5, CSS3</li>
+        <li><b>Frameworks:</b> Next.js (App Router), React 19 / 18, Node.js, npm</li>
+        <li><b>Styling & UX:</b> Tailwind CSS (v3 & v4), Mobile-first & Responsive Design</li>
+        <li><b>E-commerce & CMS:</b> Shopify, WooCommerce, WordPress & Elementor</li>
+        <li><b>UI & Data:</b> Radix UI, Lucide Icons, Recharts datavisualisering</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Backend & Database</h4>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend, Database & Integrationer</h4>
       <ul>
-        <li><b>Server:</b> Node.js, Next.js Server Components</li>
-        <li><b>PHP:</b> PHP 8 REST APIs & Sessions</li>
+        <li><b>Backend & Server:</b> PHP 8, Node.js, Next.js Server Actions</li>
         <li><b>Database:</b> PostgreSQL, Database Migrations & RLS</li>
-        <li><b>Betaling & Mail:</b> Stripe API, Resend, IMAP</li>
-        <li><b>Analytics API:</b> Google Analytics 4 Data API</li>
-        <li><b>Arkitektur:</b> RESTful endpoints, Server Actions</li>
+        <li><b>API'er & Kode:</b> RESTful APIs, Webhooks, Custom Code & Fejlfinding</li>
+        <li><b>Betaling & Kommunikation:</b> Stripe API, Resend, IMAP Webmail</li>
+        <li><b>Formularer & Sikkerhed:</b> Sikre formularer, CSRF, Session-håndtering</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud & Værktøjer</h4>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📈 Vækst, Tracking & Automatisering</h4>
       <ul>
-        <li><b>Hosting:</b> Vercel, Simply.com Cloud</li>
-        <li><b>Webserver:</b> Apache HTTP (mod_headers, CSP)</li>
-        <li><b>Byggeværktøjer:</b> Vite, Webpack, ESLint</li>
-        <li><b>Versionsstyring:</b> Git, GitHub CI</li>
-        <li><b>SEO & Standarder:</b> Schema.org JSON-LD</li>
+        <li><b>SEO & Ydeevne:</b> Teknisk SEO, Performanceoptimering, Schema.org JSON-LD</li>
+        <li><b>Konvertering:</b> Højkonverterende Landingpages, Funnels & Lead flows</li>
+        <li><b>Analytics:</b> Google Analytics 4 (GA4 Data API), Event-tracking</li>
+        <li><b>Marketing & CRM:</b> HubSpot, Mailchimp, Marketing Automation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ Infrastruktur, Værktøjer & AI-Workflow</h4>
+      <ul>
+        <li><b>Hosting & DNS:</b> Cloudflare, Simply.com, Vercel, one.com, e-studio.dk</li>
+        <li><b>Sikkerhed & Webserver:</b> Apache HTTP (mod_headers, CSP-hærdning)</li>
+        <li><b>Byg & Versionsstyring:</b> Git, GitHub, Vite, Webpack, ESLint</li>
+        <li><b>Moderne Workflow:</b> AI-assisted Coding, AI Debugging, CodeRabbit Review</li>
         <li><b>Platforme:</b> macOS, Linux, Windows</li>
       </ul>
     </td>
