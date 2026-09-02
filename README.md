@@ -61,7 +61,7 @@ Jeg omsætter komplekse forretningskrav til lynhurtige, sikre og skalerbare digi
         <li><b>Byggeværktøjer:</b> Vite, Webpack, ESLint</li>
         <li><b>Versionsstyring:</b> Git, GitHub CI</li>
         <li><b>SEO & Standarder:</b> Schema.org JSON-LD</li>
-        <li><b>Platforme:</b> Windows PowerShell, Linux</li>
+        <li><b>Platforme:</b> macOS, Linux, Windows</li>
       </ul>
     </td>
   </tr>
