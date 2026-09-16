@@ -23,7 +23,7 @@
 
 I build fast, secure, and high-converting web products. With a background spanning software engineering and business strategy, I architect and ship everything from custom web applications and e-commerce platforms to AI-powered tools and automated business systems.
 
-Currently running [manniche labs](https://github.com/mannichen-labs) — a small open-source studio publishing tools for European developers.
+Currently running [manniche labs](https://github.com/manniche-labs) — a small open-source studio publishing tools for European developers.
 
 ---
 
