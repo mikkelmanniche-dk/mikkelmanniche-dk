@@ -1,11 +1,9 @@
 <a href="https://mikkelmanniche.dk/en/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="Mikkel Manniche. Websites, apps and tools, built to be used. mikkelmanniche.dk" width="100%">
+    <img src="assets/banner-light.svg" alt="Mikkel Manniche. Websites, apps and tools, built to be used. Fast, bespoke websites, web apps and digital tools for businesses and founders. Fixed prices from €200, no monthly lock-in. mikkelmanniche.dk" width="100%">
   </picture>
 </a>
-
-I help businesses and founders build fast, bespoke websites, custom web apps and digital tools that solve real problems. Transparent fixed prices from €200, no monthly lock-in, direct communication.
 
 <a href="https://mikkelmanniche.dk/en/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-quote-dark.svg"><img src="assets/button-quote-light.svg" alt="Get a free quote" height="42"></picture></a>&nbsp;
 <a href="https://calendly.com/kontakt-mikkelmanniche/30min"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-call-dark.svg"><img src="assets/button-call-light.svg" alt="Book 30 min call" height="42"></picture></a>
