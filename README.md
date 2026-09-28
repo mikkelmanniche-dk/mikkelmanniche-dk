@@ -7,7 +7,8 @@
 
 I help businesses and founders build fast, bespoke websites, custom web apps and digital tools that solve real problems. Transparent fixed prices from €200, no monthly lock-in, direct communication.
 
-**[mikkelmanniche.dk →](https://mikkelmanniche.dk/en/)**
+<a href="https://mikkelmanniche.dk/en/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-quote-dark.svg"><img src="assets/button-quote-light.svg" alt="Get a free quote" height="42"></picture></a>&nbsp;
+<a href="https://calendly.com/kontakt-mikkelmanniche/30min"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-call-dark.svg"><img src="assets/button-call-light.svg" alt="Book 30 min call" height="42"></picture></a>
 
 ## Recent work
 
@@ -24,6 +25,11 @@ I help businesses and founders build fast, bespoke websites, custom web apps and
 
 More small tools at **[manniche labs](https://github.com/manniche-labs)**: receipt parsing for DE/DK VAT, Apache security hardening for SPAs, a Next.js starter.
 
----
+<br>
 
-[Get a free quote](https://mikkelmanniche.dk/en/contact) · [Book a 30-min call](https://calendly.com/kontakt-mikkelmanniche/30min) · [LinkedIn](https://www.linkedin.com/in/mikkelmanniche/) · kontakt@mikkelmanniche.dk
+<a href="https://mikkelmanniche.dk/en/contact">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/band-dark.svg">
+    <img src="assets/band-light.svg" alt="Have a project? Get a quick quote. kontakt@mikkelmanniche.dk" width="100%">
+  </picture>
+</a>
