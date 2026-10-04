@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://mikkelmanniche.dk/en/contact"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-quote-dark.svg"><img src="assets/button-quote-light.svg" alt="Get a free quote" height="42"></picture></a>&nbsp;
-<a href="https://calendly.com/kontakt-mikkelmanniche/30min"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-call-dark.svg"><img src="assets/button-call-light.svg" alt="Book 30 min call" height="42"></picture></a>
+<a href="https://cal.com/manniche/snak"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-call-dark.svg"><img src="assets/button-call-light.svg" alt="Book 30 min call" height="42"></picture></a>
 
 ## Recent work
 
